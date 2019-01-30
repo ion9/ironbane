@@ -1,1 +1,3 @@
 .meteor/local
+.git
+node_modules
